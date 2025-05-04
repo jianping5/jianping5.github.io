@@ -1,5 +1,5 @@
-[category]: <> (General,Code)
-[date]: <> (2020/10/24)
+[category]: <> (General)
+[date]: <> (2025/05/04)
 [title]: <> (Hello world)
 
 Hello world!
