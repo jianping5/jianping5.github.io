@@ -2,18 +2,18 @@
 <rss version="2.0">
 <channel>
   <title>Jianping5's website</title>
-  <link>http://localhost/</link>
+  <link>https://jianping5.github.io/</link>
   <description>Jianping5's website</description>
   <image>
       <url>https://avatars.githubusercontent.com/u/83172782?v=4&amp;size=64</url>
       <title>Jianping5's website</title>
-      <link>http://localhost/</link>
+      <link>https://jianping5.github.io/</link>
   </image>
 
 <item>
 <title>Hello world</title>
-<link>http://localhost/general/2025/05/04/hello.html</link>
-<guid>http://localhost/general/2025/05/04/hello.html</guid>
+<link>https://jianping5.github.io/general/2025/05/04/hello.html</link>
+<guid>https://jianping5.github.io/general/2025/05/04/hello.html</guid>
 <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
 <description></description>
 </item>
