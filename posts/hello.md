@@ -8,4 +8,4 @@ The sky image
 ![sky](../../../../images/sky.jpg)
 
 The invisible wings video
-<video src="../../../../videos/invisible_wings.mp4"></video>
+<video controls witdh="730px" src="../../../../videos/invisible_wings.mp4"></video>
