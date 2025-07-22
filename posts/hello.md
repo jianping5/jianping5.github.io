@@ -5,7 +5,7 @@
 Hello world!
 
 The sky image
-![sky](../../../../site/images/sky.jpg)
+![sky](../../../../images/sky.jpg)
 
 The invisible wings video
-<video src="../../../../site/videos/invisible_wings.mp4"></video>
+<video src="../../../../videos/invisible_wings.mp4"></video>
