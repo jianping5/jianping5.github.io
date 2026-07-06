@@ -208,8 +208,9 @@ def extract_metadata(fil, filename=None):
 
 
 def metadata_to_path(global_config, metadata):
+    category = next(iter(metadata['categories']))
     return os.path.join(
-        global_config.get('posts_directory', 'posts'),
+        category,
         metadata['date'],
         metadata['filename']
     )
