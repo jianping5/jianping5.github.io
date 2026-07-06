@@ -208,3 +208,8 @@ html.dark #doc img.invert {
 #color-mode-switch label:active:after {
   width: 30px;
 }
+
+/* 隐藏鼠标点击框 */
+:focus:not(:focus-visible) {
+  outline: none;
+}
