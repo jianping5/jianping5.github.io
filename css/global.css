@@ -209,7 +209,7 @@ html.dark #doc img.invert {
   width: 30px;
 }
 
-/* 隐藏鼠标点击框，保留 Tab 键的默认框 */
+/* 隐藏鼠标点击框，保留 Tab 键的框 */
 :focus:not(:focus-visible) {
   outline: none;
 }
